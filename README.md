@@ -1,3 +1,5 @@
+# Este repositório foi desenvolvido em um treinamento da Alura sobre manipulação de arrays com JavaScript
+
 # Books-e-commerce
 Uma página de um e-commerce de livros
 
